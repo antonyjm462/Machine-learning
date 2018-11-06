@@ -6,9 +6,9 @@ Machine learning is a process by which a computer program learns to do a particu
 A computer program is said to learn from Experience E, with respect to  some task T and some performance level P,the if performance P on the task T increases with experience E.
 
 ### Types of Machine learning algorithms
-*Supervised Learning*
-*Unsupervised learning*
-*Semisupervised learning8
+*Supervised Learning
+*Unsupervised learning
+*Semisupervised learning
 
 ## Supervised learning
 In supervised learning,
@@ -20,8 +20,8 @@ Its called Supervised learning because, here we provide the algorithm with right
 *Regression : if algorithm predict continous valued output*
 *classificaton: if algorithm predict discrete valued output*
 
-**Eg:
-REGRESSION**:house price prediction
+**Eg:**
+**REGRESSION**:house price prediction
 **CLASSIFICATON**:pridict wheather a pacient has beging or malignant tumor
 
 
