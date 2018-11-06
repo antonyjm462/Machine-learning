@@ -21,7 +21,7 @@ Its called Supervised learning because, here we provide the algorithm with right
 - *classificaton: if algorithm predict discrete valued output*
 
 **Eg:**
-**REGRESSION**:house price prediction
-**CLASSIFICATON**:pridict wheather a pacient has beging or malignant tumor
+- **REGRESSION**:house price prediction
+- **CLASSIFICATON**:pridict wheather a pacient has beging or malignant tumor
 
 
